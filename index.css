@@ -1,0 +1,21 @@
+body {
+    text-align: center;
+}
+
+.main-heading {
+    margin-top: 20px;
+}
+
+.image-styling {
+    border-radius: 50px;
+    border: solid 10px whitesmoke;
+}
+
+h4 {
+    margin-top: 20px;
+}
+
+p {
+    margin-bottom: 40px;
+}
+
